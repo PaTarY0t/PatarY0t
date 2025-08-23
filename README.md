@@ -30,6 +30,7 @@ I specialize in discovering vulnerabilities in web applications and network syst
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=flat&logo=portswigger&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-005C9C?style=flat&logo=wireshark&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
