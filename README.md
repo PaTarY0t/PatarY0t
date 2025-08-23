@@ -21,10 +21,13 @@ I specialize in discovering vulnerabilities in web applications and network syst
 - **Penetration Testing**  
   Assessing web applications and networks for weaknesses to help organizations improve their defenses.
 
----
 
 - **CTF Competitions**  
   Participating in Capture The Flag (CTF) challenges to hone my practical hacking and problem-solving skills.
+
+
+---
+
 
 
 ## 🛠️ Tools & Technologies
