@@ -42,6 +42,8 @@ I specialize in discovering vulnerabilities in web applications and network syst
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=flat&logo=visual-basic&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-CA1F1F?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ---
 
