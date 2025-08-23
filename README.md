@@ -1,7 +1,6 @@
 # 💫 About Me
 
-![GitHub followers](https://img.shields.io/github/followers/PaTarY0t?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/PaTarY0t?style=social)  
+  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-PaTarY0t-blue?logo=linkedin)  
 
 👋 Hello! I'm **PaTarY0t**, a passionate **Cybersecurity Enthusiast** and **Bug Bounty Hunter** dedicated to making the digital world safer.
