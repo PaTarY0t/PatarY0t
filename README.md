@@ -11,7 +11,7 @@ I specialize in discovering vulnerabilities in web applications and network syst
 ## 🔐 What I Do
 
 - **Bug Bounty Hunting**  
-  Actively participating in bug bounty programs on platforms such as [HackerOne](https://www.hackerone.com/), [Bugcrowd](https://www.bugcrowd.com/), and [Synack](https://www.synack.com/), aiming to uncover critical vulnerabilities and enhance global cybersecurity.
+ Actively participating in various bug bounty programs, aiming to uncover critical security vulnerabilities and contribute to strengthening global cybersecurity
 
 - **Security Research**  
   Conducting in-depth research into emerging threats and vulnerabilities to stay ahead of attackers and contribute to the security community.
