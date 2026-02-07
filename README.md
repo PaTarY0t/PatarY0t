@@ -54,7 +54,7 @@ I specialize in discovering vulnerabilities in web applications and network syst
 I'm always eager to collaborate on cybersecurity projects or share knowledge. If you're interested in working together or just want to chat about security, feel free to reach out!
 
 - 📫 Email: [data_0@yahoo.com]  
-- 🌐 GitHub: [https://github.com/PaTarY0t](https://github.com/PaTarY0t)  
+
 
 
 ---
