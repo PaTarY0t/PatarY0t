@@ -26,7 +26,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 
 
 
-## 🛠️ Tools & Technologies
+## 🧠 𝓜𝔂 𝓑𝓻𝓪𝓲𝓷
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
