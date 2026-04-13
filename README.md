@@ -38,6 +38,9 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![Apache](https://img.shields.io/badge/-Apache-CA1F1F?style=flat&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
+![ASM](https://img.shields.io/badge/-ASM-FF6600?style=flat&logoColor=white)
 
 ---
 
