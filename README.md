@@ -2,9 +2,7 @@
 
   
 
-👋 Hello! I'm **PaTarY0t**, a passionate **Cybersecurity Enthusiast** and **Bug Bounty Hunter** dedicated to making the digital world safer.
-
-I specialize in discovering vulnerabilities in web applications and network systems, constantly sharpening my skills in **ethical hacking** and **penetration testing**. Collaboration and continuous learning are at the heart of my journey.
+##Cybersecurity Enthusiast & Bug Bounty Hunter | Ethical Hacker | Making the digital world safer##
 
 ---
 
