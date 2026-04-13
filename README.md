@@ -2,7 +2,7 @@
 
   
 
-# Cybersecurity Enthusiast & Bug Bounty Hunter | Ethical Hacker | Making the digital world safer
+ **Cybersecurity Enthusiast & Bug Bounty Hunter | Ethical Hacker | Making the digital world safer**
 
 I focus on identifying security vulnerabilities in web applications and networks responsibly and legally. I continuously improve my skills in ethical hacking and penetration testing, while sharing knowledge and collaborating to enhance digital security
 
