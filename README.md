@@ -29,11 +29,14 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Computer Science](https://img.shields.io/badge/-Computer%20Science-6A1B9A?style=flat&logo=academia&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Network](https://img.shields.io/badge/-Network-0B3D91?style=flat&logo=internetexplorer&logoColor=white)
+![Mathematics](https://img.shields.io/badge/-Mathematics-00897B?style=flat&logo=latex&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Cryptography](https://img.shields.io/badge/-Cryptography-1A237E?style=flat&logo=letsencrypt&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=flat&logo=visual-basic&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Firewall](https://img.shields.io/badge/-Firewall-D32F2F?style=flat&logo=fortinet&logoColor=white)
@@ -44,6 +47,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
 ![ASM](https://img.shields.io/badge/-ASM-FF6600?style=flat&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![VBScript](https://img.shields.io/badge/-VBScript-5C2D91?style=flat&logoColor=white)
 
 ---
 
