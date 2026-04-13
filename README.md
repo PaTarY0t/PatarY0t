@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
   
 
@@ -8,23 +8,21 @@ I focus on identifying security vulnerabilities in web applications and networks
 
 ---
 
-## 🔐 What I Do
+# What I Do
 
-- **Bug Bounty Hunting**  
- Actively participating in various bug bounty programs, aiming to uncover critical security vulnerabilities and contribute to strengthening global cybersecurity
+**Bug Bounty Hunting**
+Responsibly participating in bug bounty programs to identify critical security vulnerabilities and help strengthen digital systems
 
-- **Security Research**  
-  Conducting in-depth research into emerging threats and vulnerabilities to stay ahead of attackers and contribute to the security community.
+**Security Research**
+Conducting in-depth research on emerging threats and vulnerabilities to stay ahead of risks and contribute to the cybersecurity community
 
-- **Penetration Testing**  
-  Assessing web applications and networks for weaknesses to help organizations improve their defenses.
-
-
-- **CTF Competitions**  
-  Participating in Capture The Flag (CTF) challenges to hone my practical hacking and problem-solving skills.
+**Penetration Testing**
+Assessing web applications and networks to identify weaknesses and assist organizations in improving their defenses legally and ethically
 
 
----
+**CTF Competitions (Capture The Flag)**
+Participating in CTF challenges to sharpen practical cybersecurity skills and problem-solving abilities in an ethical manner.
+
 
 
 
