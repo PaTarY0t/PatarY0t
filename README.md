@@ -32,7 +32,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=flat&logo=visual-basic&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-CA1F1F?style=flat&logo=apache&logoColor=white)
@@ -41,6 +41,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white)
 ![ASM](https://img.shields.io/badge/-ASM-FF6600?style=flat&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
