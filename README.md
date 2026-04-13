@@ -34,6 +34,8 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Network](https://img.shields.io/badge/-Network-0B3D91?style=flat&logo=internetexplorer&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/-Mathematics-00897B?style=flat&logo=latex&logoColor=white)
+![SOC](https://img.shields.io/badge/-SOC-263238?style=flat&logo=splunk&logoColor=white)
+![Computer Forensics](https://img.shields.io/badge/-Computer%20Forensics-455A64?style=flat&logo=kalilinux&logoColor=white)
 ![Buffer Overflow](https://img.shields.io/badge/-Buffer%20Overflow-6D4C41?style=flat&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
