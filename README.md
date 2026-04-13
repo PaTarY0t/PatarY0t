@@ -44,8 +44,8 @@ I specialize in discovering vulnerabilities in web applications and network syst
 
 ## 💻 Current Focus
 
-- **Advanced Exploitation Techniques**  
-  Exploring sophisticated hacking methodologies and developing mitigation strategies.
+- **Advanced Exploitation Techniques | Security Researcher**  
+  Exploring sophisticated hacking methodologies and developing responsible strategies to protect digital systems
 
 ---
 
