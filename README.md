@@ -31,6 +31,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Network](https://img.shields.io/badge/-Network-0B3D91?style=flat&logo=internetexplorer&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=flat&logo=visual-basic&logoColor=white)
