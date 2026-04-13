@@ -36,6 +36,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=flat&logo=visual-basic&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Firewall](https://img.shields.io/badge/-Firewall-D32F2F?style=flat&logo=fortinet&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-CA1F1F?style=flat&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white)
