@@ -1,6 +1,12 @@
 #  About Me
 
-  
+<img width="1500" height="500" alt="New Project (1)" src="https://github.com/user-attachments/assets/c68684fc-6e0c-478d-99e8-17ec9db44664" />
+
+
+
+  <img width="1500" height="500" alt="New Project" src="https://github.com/user-attachments/assets/6178b5c8-02ff-4f4f-a540-55093c0765fa" />
+
+
 
  **Cybersecurity Enthusiast & Bug Bounty Hunter | Ethical Hacker | Making the digital world safer**
 
