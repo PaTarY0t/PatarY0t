@@ -65,6 +65,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/-VB.NET-68217A?style=flat&logo=visual-basic&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code%20Review-Passed-brightgreen?style=flat)
 ![GitHub Pull Requests](https://img.shields.io/badge/-GitHub%20Pull%20Requests-181717?style=flat&logo=github&logoColor=white)
 ![Bugs](https://img.shields.io/badge/-Bugs-D32F2F?style=flat&logo=bugcrowd&logoColor=white)
 ![Security](https://img.shields.io/badge/-Security-000000?style=flat&logo=shieldsdotio&logoColor=white)
