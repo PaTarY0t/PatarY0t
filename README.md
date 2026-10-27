@@ -73,6 +73,7 @@ Participating in CTF challenges to sharpen practical cybersecurity skills and pr
 ![Security Administrator](https://img.shields.io/badge/-Security%20Administrator-000000?style=flat&logo=fortinet&logoColor=white)
 ![System Administrator](https://img.shields.io/badge/-System%20Administrator-2C3E50?style=flat&logo=linux&logoColor=white)
 ![Cloud Administrator](https://img.shields.io/badge/-Cloud%20Administrator-232F3E?style=flat&logo=icloud&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-232F3E?style=flat&logo=icloud&logoColor=white)
 
 
 
