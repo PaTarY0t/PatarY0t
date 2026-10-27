@@ -4,7 +4,8 @@
 
 
 
-  <img width="1500" height="500" alt="New Project" src="https://github.com/user-attachments/assets/6178b5c8-02ff-4f4f-a540-55093c0765fa" />
+<img width="1021" height="549" alt="58fc99e3-4580-4817-98c4-45cd945159f6" src="https://github.com/user-attachments/assets/3c5ecd71-761a-46da-a4b7-2cf9ef7ff728" />
+
 
 
 
